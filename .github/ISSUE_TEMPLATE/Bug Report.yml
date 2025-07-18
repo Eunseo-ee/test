@@ -1,4 +1,4 @@
-name: 🐛 Bug Report
+name: test Bug Report
 description: 버그나 문제 상황을 보고할 때 사용하세요
 title: "[BUG] "
 labels: ["bug"]
